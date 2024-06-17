@@ -1,0 +1,32 @@
+.Question {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .Question__text {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .Answer {
+    margin-bottom: 10px;
+  }
+  
+  .Answer_div{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Answer label {
+    cursor: pointer;
+    display: block;
+  }
+  
+  .Answer input[type="radio"]:checked + label {
+    color: #333;
+    font-weight: bold;
+  }
+  
