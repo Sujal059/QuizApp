@@ -1,66 +1,102 @@
 [
-    {
-      "question": "What is the capital of France?",
-      "answers": [
-        "London",
-        "Berlin",
-        "Paris",
-        "Madrid"
-      ],
-      "correctAnswer": 2
-    },
-    {
-        "question": "What is the capital of France?",
-        "answers": [
-          "London",
-          "Berlin",
-          "Paris",
-          "Madrid"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "What is the capital of France?",
-        "answers": [
-          "London",
-          "Berlin",
-          "Paris",
-          "Madrid"
-        ],
-        "correctAnswer": 3
-      },
-      {
-        "question": "What is the capital of France?",
-        "answers": [
-          "London",
-          "Berlin",
-          "Paris",
-          "Madrid"
-        ],
-        "correctAnswer": 4
-      },
-      {
-        "question": "What is the capital of France?",
-        "answers": [
-          "London",
-          "Berlin",
-          "Paris",
-          "Madrid"
-        ],
-        "correctAnswer": 2
-      },
-      {
-        "question": "What is the capital of France?",
-        "answers": [
-          "London",
-          "Berlin",
-          "Paris",
-          "Madrid"
-        ],
-        "correctAnswer": 4
-      }
-      
-      
-
-  ]
-  
+  {
+    "question": "Which is the largest country in the world by land area?",
+    "answers": [
+      "Canada",  
+      "Russia",
+      "China",
+      "United States"
+    ],
+    "correctAnswer": 0  
+  },
+  {
+    "question": "What is the name of the first book in the Harry Potter series?",
+    "answers": [
+      "Harry Potter and the Chamber of Secrets",
+      "Harry Potter and the Sorcerer's Stone",  
+      "Harry Potter and the Prisoner of Azkaban",
+      "Harry Potter and the Goblet of Fire"
+    ],
+    "correctAnswer": 1  
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answers": [
+      "Venice",
+      "Florence",
+      "Rome",  
+      "Milan"
+    ],
+    "correctAnswer": 2  
+  },
+  {
+    "question": "What is the scientific name for a common house cat?",
+    "answers": [
+      "Canis lupus familiaris",  
+      "Equus caballus",
+      "Sus scrofa domesticus",
+      "Felis catus"
+    ],
+    "correctAnswer": 3  
+  },
+  {
+    "question": "Which is the tallest mountain in the solar system?",
+    "answers": [
+      "Mount Fuji (Japan)",
+      "Kilimanjaro (Africa)",
+      "Mount Olympus (Mars)",  
+      "Mount Everest (Earth)"
+    ],
+    "correctAnswer": 2  
+  },
+  {
+    "question": "What is the name of the world's most famous equation?",
+    "answers": [
+      "PV=nRT",
+      "F=ma",
+      "a^2 + b^2 = c^2",
+      "E=mc²"  
+    ],
+    "correctAnswer": 3  
+  },
+  {
+    "question": "What is the name of the largest desert in the world?",
+    "answers": [
+      "Gobi Desert",
+      "Australian Outback",
+      "Kalahari Desert",
+      "Sahara Desert"  
+    ],
+    "correctAnswer": 3  
+  },
+  {
+    "question": "What is the name of the world's longest river?",
+    "answers": [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi-Missouri River System",
+      "Nile River"  
+    ],
+    "correctAnswer": 3  
+  },
+  {
+    "question": "What year did the first iPhone launch?",
+    "answers": [
+      "2004",
+      "2010",
+      "2013",
+      "2007"  
+    ],
+    "correctAnswer": 3  
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answers": [
+      "Munich",
+      "Hamburg",
+      "Cologne",
+      "Berlin"  
+    ],
+    "correctAnswer": 3  
+  }
+]  
